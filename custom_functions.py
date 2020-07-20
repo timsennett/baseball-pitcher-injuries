@@ -1,5 +1,6 @@
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import precision_score, recall_score, accuracy_score, f1_score
+from yellowbrick.classifier import ConfusionMatrix
 
 
 def pitch_counter(df):
