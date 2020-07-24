@@ -10,7 +10,7 @@ Consider, for example, that roughly a quarter of major league pitchers used in 2
 
 Any example of one such lead can be seen here, in this visualization taken from the project notebook. Notice the direction in which Sale's release extension is trending as he moves toward the Injured List:
 
-![](img/fastball_ext_roll_mean_2018.png "2018 4-Seam Fastball Rolling Release Extension)
+![](img/fastball_ext_roll_mean_2018.png "2018 4-Seam Fastball Rolling Release Extension")
 
 Of course, each pitcher's body is unique and will respond to stress differently. There is probably no "one-size-fits-all" solution to this problem, and therefore a significant sample of starting pitchers ought be studied. As for the scope of this current analysis, any conclusions found here should be limited to my particular case study—namely, seven-time All-Star Chris Sale of the Boston Red Sox—and may not necessarily apply to other pitchers.
 
