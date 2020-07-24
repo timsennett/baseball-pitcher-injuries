@@ -56,7 +56,7 @@ Text file offering ideas and paths forward for future work related to the projec
 
 ## Blog post
 
-Visit https://medium.com/@timsennett/ to read a blog post on a topic related to this project.
+Visit [here](https://medium.com/@timsennett/predicting-mlb-pitch-classes-8c8163cd6c41) to read a blog post on a topic related to this project.
 
 ## Support
 
