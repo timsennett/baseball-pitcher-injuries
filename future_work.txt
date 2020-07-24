@@ -1,0 +1,9 @@
+Thinking of this project as something of a springboard, offering multiple paths for further analysis, here are some ideas that I was not able to get to but that may deserve pursuing:
+
+1. Based on statistically meaningful markers of potentialy soon-to-occur injuries (i.e., fastball release extension exceeding 6.1–6.2 feet) further populate `Sustained_Injury` column with 1 (positive class) on any row (pitch) where that marker is met. Then, design a logistic regression model that might predict whether a given pitch or sample of pitches is likely to be followed by an injury. This might also give clarity as to what the most important features are, which can guide further exploration.
+
+2. Test whether an extra days' rest has a significant effect on Sale's ability to stay healthy. (Recall that he did this regularly as a pitcher on the White Sox.)
+
+3. Determine any in-game "red flags" that may offer insight into when Sale should be removed from a particular game.
+
+4. Visualize whether Sale's on-field results track with, or correlate to, his underlying pitch-metrics (velocity, spin rate, release points, etc.). (A rolling ERA+ may be useful for this.)
