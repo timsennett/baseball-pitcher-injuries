@@ -1,4 +1,4 @@
-# Capstone Project
+# Major League Baseball Pitcher Injuries
 
 ## Proposal
 
