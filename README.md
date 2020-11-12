@@ -10,11 +10,11 @@ Consider, for example, that roughly a quarter of major league pitchers used in 2
 
 Any example of one such lead can be seen here, in this visualization taken from the project notebook. Notice the direction in which Sale's release extension is trending as he moves toward the Injured List:
 
-![](img/fastball_ext_roll_mean_2018.png "2018 4-Seam Fastball Rolling Release Extension")
+![](images/fastball_ext_roll_mean_2018.png "2018 4-Seam Fastball Rolling Release Extension")
 
 Of course, each pitcher's body is unique and will respond to stress differently. There is probably no "one-size-fits-all" solution to this problem, and therefore a significant sample of starting pitchers ought be studied. As for the scope of this current analysis, any conclusions found here should be limited to my particular case study—namely, seven-time All-Star Chris Sale of the Boston Red Sox—and may not necessarily apply to other pitchers.
 
-![SegmentLocal](img/100215_cws_sale_eephus.gif "Chris Sale Eephus Pitch")
+![SegmentLocal](images/100215_cws_sale_eephus.gif "Chris Sale Eephus Pitch")
 
 With this relatively new information, it's plausible to think that, rather than waiting for a pitcher to get knocked around before warming up a reliever, such decisions can be made several pitches earlier if and when a dip in spin rate becomes apparent in the data. Or, rather than pushing a pitcher to the point of injury, that loss can be projected and avoided, or at least mitigated, after trends in the data emerge that might provide some advanced notice.
 
