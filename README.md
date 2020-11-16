@@ -54,7 +54,7 @@ In his eight seasons as a starting pitcher in the major leagues—first with the
 </tbody></table>
 </tbody></table><div id="credit_month" class="sr_share" style="font-size: 0.83em;">Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool">Baseball-Reference.com</a>: <a href="https://www.baseball-reference.com/players/split.fcgi?id=salech01&amp;t=p&amp;year=Career&amp;utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool#month">View Original Table</a><br>Generated 7/3/2020.</div>
 </div>
-
+</div>
 
 In addition to these late-season slides, Sale has been somewhat injury-prone, especially in the second half of his career. Since 2015, he's been placed on the Injured List (IL) on five occasions, resulting in 121 missed games, and has made [$10,207,891](https://www.spotrac.com/mlb/boston-red-sox/chris-sale-7278/injuries/) during his time spent on the IL alone. (Those numbers are set to climb this year, as Sale will miss the entire, albeit [shortened](https://www.npr.org/2020/06/24/882678448/major-league-baseball-comes-back-for-shorter-season-after-coronavirus-shutdown#:~:text=Live%20Sessions-,Major%20League%20Baseball%20Comes%20Back%20For%20Shorter%20Season%20After%20Coronavirus,training%20beginning%20on%20July%201.), 2020 season while he recovers from—you guessed it—Tommy John surgery.)
 
